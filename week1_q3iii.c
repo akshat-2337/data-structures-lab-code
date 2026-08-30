@@ -1,4 +1,4 @@
-/* Write a C program to sort a given list of elements using Insertion Sort. */
+/* Write a C program to sort a given list of elements using Insertion Sort.  */
 
 #include <stdio.h>
 
